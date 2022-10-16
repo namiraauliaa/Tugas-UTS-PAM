@@ -9,7 +9,7 @@
 
 ## How To Use
 
-  Untuk tahap menginstall aplikasi dalam taham pengembangan adalah:
+  Untuk tahap menginstall aplikasi dalam tahap pengembangan adalah:
 1. Pertama user menginstall aplikasi expo di playstore/app store
 2. buka aplikasi expo tersebut lalu pilih opsi "Scan QR code'
 3. scan barcode yang ada pada file PDF.
